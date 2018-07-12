@@ -1,7 +1,7 @@
 <?php
 	// test
 	class Account {
-
+//example
 		private $errorArray;
 
 		public function __construct() {
